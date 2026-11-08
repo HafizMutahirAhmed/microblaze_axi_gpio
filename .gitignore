@@ -1,0 +1,18 @@
+# Vivado generated / build output (regenerated from .xpr + .srcs)
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+webtalk*
+xsim.dir/
+
+# Synthesis checkpoint used only for incremental synthesis
+*.srcs/utils_1/imports/synth_1/*.dcp
